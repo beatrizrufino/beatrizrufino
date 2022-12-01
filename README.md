@@ -1,3 +1,3 @@
-👋Olá, eu me chamo Brayan e estudo no colégio Morelli
-👍 Meu email para contato beatrizrufino.taborda@escola.pr.gov.br
-🌱Eu sou interessado em oferecer programação, ja comecei um pouco em java sript e scrath
+👋Olá, eu me chamo Beatriz e estudo no colégio Morelli
+👍 Meu email para contato é beatriz.rufino.taborda@escola.pr.gov.br
+🌱Eu sou interessada em criar meu perfil no Github e aprender nossas formas de edição
